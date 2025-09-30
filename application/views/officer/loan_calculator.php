@@ -15,7 +15,7 @@ include_once APPPATH . "views/partials/officerheader.php";
 
         <div>
             <label class="block text-sm sm:text-base font-medium text-gray-700 dark:text-gray-300">Kiwango cha Riba (%)</label>
-            <input type="number" id="interest_rate" name="interest_rate" value="20" required 
+            <input type="number" id="interest_rate" name="interest_rate"  required 
                 class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-cyan-500 focus:ring-cyan-500 sm:text-sm sm:py-2 dark:bg-gray-700 dark:border-gray-600 dark:text-white">
         </div>
 
